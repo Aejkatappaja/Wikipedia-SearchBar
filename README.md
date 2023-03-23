@@ -1,6 +1,6 @@
 # WikiRocket 🚀
 
-Training exercise about creating a Wikipadia SearchBar using Next.js / TypeScript and TailWind drived by Dave Gray.
+Training exercise about creating a Wikipedia SearchBar using Next.js / TypeScript and TailWind drived by Dave Gray.
 
 Learning how Next.js works with "Route/Pages" system, and fetching data in Next.js.
 
