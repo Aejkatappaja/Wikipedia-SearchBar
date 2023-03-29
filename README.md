@@ -6,7 +6,7 @@ Learning how Next.js works with "Route/Pages" system, and fetching data in Next.
 
 ## How ?
 
-Followed tutorial on Dave Gray Youtube Channel to be able to handle this project.
+Followed Dave Gray Youtube Channel to be able to handle this project.
 
 ## Demo
 
